@@ -4,5 +4,4 @@ cpp_blockingqueue
 C++ blocking queue
 
 
-This is a very simnple implementation of blocking_queue in C++.
-This version is meant to be used in windows, but can be easily ported to linux.
+This is a very simple implementation of blocking_queue in C++. The 'master' branch contanins a Windows implementation (needs refactor and clean up). The 'unix' branch contains a more cleaner version and compiles on linux.
